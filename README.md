@@ -35,17 +35,7 @@ I'm <strong>starving</strong> for projects to work on.
 
 
 <h3 align="center">Technologies and Languages</h3>
-
-<!-- | Languages | Web Technologies | Game Engines |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /> | <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> |
-| <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /> | <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> | <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> | |
-| <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />| <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> | |
-| <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /> | |
-| | <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /> | |
- -->
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dOnTaSkAbOuTmYnAmE&theme=tokyonight" />
 <table align='center'>
   <tr>
     <th>Languages</th>
@@ -121,6 +111,10 @@ I'm <strong>starving</strong> for projects to work on.
     <td></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dOnTaSkAbOuTmYnAmE&show_icons=true&theme=tokyonight" />
+</p>
 
 
 <h3 align="center">Editors</h3>
