@@ -1,9 +1,10 @@
-<h1 align="center">Hello 👋 There </h1>
-<p align="center">
-  I'm sorry to disappoint you, but there doesn't seem to be too much about me to know
+<h1 align="center">Hello 👋 Hi </h1>
+<p font-size='40px'>
+  On the voyage of web-developement I've barelly stepped on the ship
 </p>
-<p align="center">
-  alteast yet
+
+<p>
+  I'm a young programmer 
 </p>
 <!--
 **dOnTaSkAbOuTmYnAmE/dOnTaSkAbOuTmYnAmE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
