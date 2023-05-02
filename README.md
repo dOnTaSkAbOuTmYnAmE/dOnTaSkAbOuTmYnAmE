@@ -7,7 +7,7 @@
 </h2>
 <p>
   I'm a young programmer willing to learn what's necessary. 
-  I'm **starving** for projects to do
+  I'm <strong>starving</strong> for projects to do
 </p>
 <!--
 **dOnTaSkAbOuTmYnAmE/dOnTaSkAbOuTmYnAmE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
