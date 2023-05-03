@@ -9,7 +9,7 @@ Currently working on: This
 </h2>
 
 I'm a junior programmer willing to learn what's necessary.  
-I mostly focus on Front-end web developement, but I also (very sometimes) try making games.
+I mostly focus on Front-end web developement, but I also sometimes (*very sometimes*) try making games.
 
 ---
 
