@@ -8,7 +8,7 @@ Currently working on: This
   Me, Myself && I
 </h2>
 
-I'm a junior programmer willing to learn what's necessary.  
+I'm a Junior Programmer willing to learn what's necessary to help you.  
 I mostly focus on Front-end web developement, but I also sometimes (*very sometimes*) try making games.
 
 ---
@@ -37,7 +37,13 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
 
 <h3 align="center">Technologies and Languages</h3>
 <p align='center'>
-  
+  Important to clarify 
+</p>
+<p align='center'>
+  <strong><em>I am no master at these and am just after learning basics with most</em></strong>
+</p>
+<p align='center'>
+  I told you I'm a Junior  
 </p>
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dOnTaSkAbOuTmYnAmE&theme=tokyonight" /> -->
 
@@ -47,30 +53,48 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
     <th>Technologies</th>
     <th>Game Engines</th>
   </tr>
-  <tr>
+  <tr> <!-- 1 -->
     <td align="center">
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /> 
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> 
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
     </td>
   </tr>
-  <tr>
+  <tr> <!-- 2 -->
+    <td align="center">  
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> 
+    </td>
+  </tr>
+  <tr> <!-- 3 -->
+    <td align="center">   
+      <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /> 
+    </td>
+    <td></td>
+  </tr>
+  <tr> <!-- 4 -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    </td>
+    <td></td>
+  </tr>
+  <tr>  <!-- 5 -->
+    <td align="center"> 
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
     <td align="center">
@@ -78,39 +102,21 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
     </td>
     <td></td>
   </tr>
-  <tr>
+  <tr>   <!-- 6 -->
     <td align="center">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center">
-       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    </td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td align="center">
-     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </td>
-    <td align="center">
-       <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
      </td>
     <td></td>
   </tr>
-  <tr>
+  <tr>  <!-- 7 -->
     <td align="center">
-      <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
     <td align='center'>
-       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     </td>
     <td></td>
   </tr>
@@ -134,8 +140,14 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<!-- Contant Section -->
+
 <h3 align="center">Contact</h3>
-<p align="center">
+<!-- <img align='right' src='https://user-images.githubusercontent.com/86784003/235946307-69960dca-aa4c-488d-9791-27f382ed3e72.svg' height='120'/> -->
+<p align='center'>
+   So if you wan't to, you can write to me here:
+</p>
+<p align='center'>
   <a href="https://discordapp.com/users/692633878191538177">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
