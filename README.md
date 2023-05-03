@@ -32,13 +32,14 @@ I'm a young programmer willing to learn what's necessary.
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
+---
 
 <h3 align="center">Technologies and Languages</h3>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dOnTaSkAbOuTmYnAmE&theme=tokyonight" />
 <table align='center'>
   <tr>
     <th>Languages</th>
-    <th>Web Technologies</th>
+    <th>Technologies</th>
     <th>Game Engines</th>
   </tr>
   <tr>
@@ -70,9 +71,7 @@ I'm a young programmer willing to learn what's necessary.
     <td align="center">
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
     </td>
-    <td align="center">
-       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">
@@ -105,7 +104,8 @@ I'm a young programmer willing to learn what's necessary.
     <td align="center">
       <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
     </td>
-    <td>
+    <td align='center'>
+       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     </td>
     <td></td>
   </tr>
