@@ -1,12 +1,15 @@
-<h1 align="center">Hello 👋 Hi </h1>
+<h1 align="center"> 👋 Hello 👋 </h1>
 
 On the voyage of programming I've barelly stepped on the ship
 
+Currently working on: This
+
 <h2 align='center'>
-  Me me and me again
+  Me, Myself && I
 </h2>
 
-I'm a young programmer willing to learn what's necessary. 
+I'm a junior programmer willing to learn what's necessary.  
+I mostly focus on Front-end web developement.
 
 ---
 
@@ -32,10 +35,12 @@ I'm a young programmer willing to learn what's necessary.
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
----
-
 <h3 align="center">Technologies and Languages</h3>
+<p align='center'>
+  
+</p>
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dOnTaSkAbOuTmYnAmE&theme=tokyonight" /> -->
+
 <table align='center'>
   <tr>
     <th>Languages</th>
