@@ -35,7 +35,7 @@ I'm a young programmer willing to learn what's necessary.
 ---
 
 <h3 align="center">Technologies and Languages</h3>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dOnTaSkAbOuTmYnAmE&theme=tokyonight" />
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dOnTaSkAbOuTmYnAmE&theme=tokyonight" /> -->
 <table align='center'>
   <tr>
     <th>Languages</th>
@@ -111,9 +111,9 @@ I'm a young programmer willing to learn what's necessary.
   </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dOnTaSkAbOuTmYnAmE&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 
 <h3 align="center">Editors</h3>
