@@ -7,7 +7,6 @@ On the voyage of programming I've barelly stepped on the ship
 </h2>
 
 I'm a young programmer willing to learn what's necessary. 
-I'm <strong>starving</strong> for projects to work on.
 
 ---
 
