@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello 👋 </h1>
 
-On the voyage of programming I've barelly stepped on the ship
+<!-- On the voyage of programming I've barelly stepped on the ship
 
 Currently working on: This
 
@@ -15,6 +15,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
 
 <p align='center'>Now what you're here probably for</p>
 
+ -->
 <h2 align='center'>
   My technologies Or what I use
 </h2>
@@ -42,9 +43,9 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
 <p align='center'>
   <strong><em>I am no master at these and am just after learning basics with most</em></strong>
 </p>
-<p align='center'>
+<!-- <p align='center'>
   I told you I'm a Junior  
-</p>
+</p> -->
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dOnTaSkAbOuTmYnAmE&theme=tokyonight" /> -->
 
 <table align='center'>
