@@ -17,7 +17,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
 
  -->
 <h2 align='center'>
-  My technologies Or what I use
+  Technologies Or what I use
 </h2>
 
 <h3 align='center'>Design</h3>
