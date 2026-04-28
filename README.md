@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hello 👋 </h1>
+<!-- <h1 align="center"> 👋 Hello 👋 </h1>
 
 <!-- On the voyage of programming I've barelly stepped on the ship
 
@@ -16,7 +16,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
 <p align='center'>Now what you're here probably for</p>
 
  -->
-<h2 align='center'>
+<!-- <h2 align='center'>
   Technologies Or what I use
 </h2>
 
@@ -42,19 +42,19 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
 </p>
 <p align='center'>
   <strong><em>I am no master at these and am just after learning basics with most</em></strong>
-</p>
+</p> -->
 <!-- <p align='center'>
   I told you I'm a Junior  
 </p> -->
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dOnTaSkAbOuTmYnAmE&theme=tokyonight" /> -->
 
-<table align='center'>
+<!-- <table align='center'>
   <tr>
     <th>Languages</th>
     <th>Technologies</th>
     <th>Game Engines</th>
   </tr>
-  <tr> <!-- 1 -->
+  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     </td>
@@ -65,7 +65,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
       <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
     </td>
   </tr>
-  <tr> <!-- 2 -->
+  <tr>
     <td align="center">  
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     </td>
@@ -76,7 +76,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
       <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> 
     </td>
   </tr>
-  <tr> <!-- 3 -->
+  <tr>
     <td align="center">   
       <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
     </td>
@@ -85,7 +85,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
     </td>
     <td></td>
   </tr>
-  <tr> <!-- 4 -->
+  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
@@ -94,7 +94,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
     </td>
     <td></td>
   </tr>
-  <tr>  <!-- 5 -->
+  <tr> 
     <td align="center"> 
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
@@ -103,7 +103,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
     </td>
     <td></td>
   </tr>
-  <tr>   <!-- 6 -->
+  <tr> 
     <td align="center">
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
     </td>
@@ -112,7 +112,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
      </td>
     <td></td>
   </tr>
-  <tr>  <!-- 7 -->
+  <tr> 
     <td align="center">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
@@ -121,14 +121,14 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
     </td>
     <td></td>
   </tr>
-</table>
+</table> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dOnTaSkAbOuTmYnAmE&show_icons=true&theme=tokyonight" />
 </p> -->
 
 
-<h3 align="center">Editors</h3>
+<!-- <h3 align="center">Editors</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -139,13 +139,13 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</p> -->
 
 <!-- Contant Section -->
 
-<h3 align="center">Contact</h3>
+<!-- <h3 align="center">Contact</h3> -->
 <!-- <img align='right' src='https://user-images.githubusercontent.com/86784003/235946307-69960dca-aa4c-488d-9791-27f382ed3e72.svg' height='120'/> -->
-<p align='center'>
+<!-- <p align='center'>
    So if you wan't to, you can write to me here:
 </p>
 <p align='center'>
@@ -156,7 +156,7 @@ I mostly focus on Front-end web developement, but I also sometimes (*very someti
   <a href = "mailto:sylwester.marcin.poltorak@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 <!--
 **dOnTaSkAbOuTmYnAmE/dOnTaSkAbOuTmYnAmE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
